@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FullWidthDialog</string>
+    <string name="change_your_password">Change Your Passsword</string>
+    <string name="current_password">Current Password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="re_enter_new_password">Re-enter new password</string>
+    <string name="change_password">Change Password</string>
+</resources>
